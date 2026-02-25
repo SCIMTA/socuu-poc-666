@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bee sting icon -->
+  <ellipse style="fill:#F59E0B;" cx="256" cy="224" rx="80" ry="96"/>
+  <ellipse style="fill:#FCD34D;" cx="256" cy="224" rx="56" ry="72"/>
+  <rect style="fill:#231F20;" x="200" y="192" width="112" height="8" rx="4"/>
+  <rect style="fill:#231F20;" x="208" y="224" width="96" height="8" rx="4"/>
+  <rect style="fill:#231F20;" x="216" y="256" width="80" height="8" rx="4"/>
+  <!-- Wings -->
+  <ellipse style="fill:#BFDBFE;stroke:#231F20;stroke-width:4;" cx="180" cy="168" rx="48" ry="32" transform="rotate(-30 180 168)"/>
+  <ellipse style="fill:#BFDBFE;stroke:#231F20;stroke-width:4;" cx="332" cy="168" rx="48" ry="32" transform="rotate(30 332 168)"/>
+  <!-- Stinger -->
+  <polygon style="fill:#231F20;" points="256,320 248,360 264,360"/>
+  <!-- Eyes -->
+  <circle style="fill:#231F20;" cx="232" cy="192" r="8"/>
+  <circle style="fill:#231F20;" cx="280" cy="192" r="8"/>
+  <!-- Pain lines -->
+  <line x1="256" y1="376" x2="256" y2="416" style="stroke:#EF4444;stroke-width:8;stroke-linecap:round"/>
+  <line x1="224" y1="384" x2="208" y2="416" style="stroke:#EF4444;stroke-width:6;stroke-linecap:round"/>
+  <line x1="288" y1="384" x2="304" y2="416" style="stroke:#EF4444;stroke-width:6;stroke-linecap:round"/>
+</svg>

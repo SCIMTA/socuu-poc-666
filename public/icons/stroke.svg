@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Brain stroke icon -->
+  <path style="fill:#818CF8;" d="M256,80c-88,0-160,64-160,144c0,48,28,92,72,120v88h176v-88c44-28,72-72,72-120
+    C416,144,344,80,256,80z"/>
+  <path style="fill:#231F20;" d="M352,448H160v-78.4C113.6,340,80,292.8,80,240C80,148.8,158.4,64,256,64s176,84.8,176,176
+    c0,52.8-33.6,100-80,129.6V448z M192,416h128v-73.6l8-4.8C368,312,400,272,400,240c0-72-68-144-144-144S112,168,112,240
+    c0,32,16,72,56,97.6l8,4.8V416H192z"/>
+  <!-- Brain fold lines -->
+  <path style="fill:none;stroke:#231F20;stroke-width:8;stroke-linecap:round;" d="M256,128v80"/>
+  <path style="fill:none;stroke:#231F20;stroke-width:8;stroke-linecap:round;" d="M200,160c0,0,32,32,56,32s56-32,56-32"/>
+  <path style="fill:none;stroke:#231F20;stroke-width:8;stroke-linecap:round;" d="M176,224c0,0,48,32,80,32s80-32,80-32"/>
+  <!-- Lightning bolt for stroke -->
+  <polygon style="fill:#EF4444;" points="320,128 296,192 328,192 288,272 336,176 304,176"/>
+</svg>

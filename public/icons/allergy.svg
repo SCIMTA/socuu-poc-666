@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Allergy/anaphylaxis icon - skin rash with warning -->
+  <circle style="fill:#FCA5A5;" cx="256" cy="256" r="176"/>
+  <path style="fill:#231F20;" d="M256,448c-105.9,0-192-86.1-192-192S150.1,64,256,64s192,86.1,192,192S361.9,448,256,448z
+    M256,96c-88.2,0-160,71.8-160,160s71.8,160,160,160s160-71.8,160-160S344.2,96,256,96z"/>
+  <circle style="fill:#EF4444;" cx="200" cy="208" r="20"/>
+  <circle style="fill:#EF4444;" cx="312" cy="192" r="16"/>
+  <circle style="fill:#EF4444;" cx="280" cy="272" r="24"/>
+  <circle style="fill:#EF4444;" cx="192" cy="304" r="12"/>
+  <circle style="fill:#EF4444;" cx="336" cy="304" r="18"/>
+  <circle style="fill:#EF4444;" cx="240" cy="352" r="14"/>
+  <path style="fill:#231F20;" d="M256,176v96" stroke="#231F20" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <circle style="fill:#231F20;" cx="256" cy="160" r="10"/>
+</svg>
